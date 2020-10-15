@@ -1,4 +1,5 @@
 #Detecting Word Shape
+# @author : Ankit Pandey
 
 import re
 def shape(word):
